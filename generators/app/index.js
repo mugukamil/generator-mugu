@@ -12,7 +12,7 @@ module.exports = yeoman.generators.Base.extend({
     var done = this.async();
 
     this.log(yosay(
-      'Welcome to the first-rate ' + chalk.red('generator-man') + ' generator!'
+      'Welcome to the first-rate ' + chalk.red('yo-mugu') + ' generator!'
     ));
 
     this.prompt(prompts, function (props) {

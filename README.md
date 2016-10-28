@@ -1,13 +1,13 @@
-# generator-man [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> Coderiver scaffolding
+# yo-mugu [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+> mugukamil fast project scaffolding stealed from river.co
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-man using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+First, install [Yeoman](http://yeoman.io) and yo-mugu using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
 npm install -g yo
-npm install -g generator-man
+npm install -g yo-mugu
 ```
 
 Then generate your new project:
@@ -22,12 +22,12 @@ Yeoman has a heart of gold. He&#39;s a person with feelings and opinions, but he
 
 ## License
 
-MIT © [Coderiver](http://riverco.de)
+MIT © [mugukamil](http://mugukamil.ru)
 
 
-[npm-image]: https://badge.fury.io/js/generator-man.svg
-[npm-url]: https://npmjs.org/package/generator-man
-[travis-image]: https://travis-ci.org/coderiver/generator-man.svg?branch=master
-[travis-url]: https://travis-ci.org/coderiver/generator-man
-[daviddm-image]: https://david-dm.org/coderiver/generator-man.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/coderiver/generator-man
+[npm-image]: https://badge.fury.io/js/yo-mugu.svg
+[npm-url]: https://npmjs.org/package/yo-mugu
+[travis-image]: https://travis-ci.org/coderiver/yo-mugu.svg?branch=master
+[travis-url]: https://travis-ci.org/coderiver/yo-mugu
+[daviddm-image]: https://david-dm.org/coderiver/yo-mugu.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/coderiver/yo-mugu
