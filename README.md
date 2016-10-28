@@ -27,7 +27,7 @@ MIT © [mugukamil](http://mugukamil.ru)
 
 [npm-image]: https://badge.fury.io/js/yo-mugu.svg
 [npm-url]: https://npmjs.org/package/yo-mugu
-[travis-image]: https://travis-ci.org/coderiver/yo-mugu.svg?branch=master
-[travis-url]: https://travis-ci.org/coderiver/yo-mugu
-[daviddm-image]: https://david-dm.org/coderiver/yo-mugu.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/coderiver/yo-mugu
+[travis-image]: https://travis-ci.org/mugukamil/yo-mugu.svg?branch=master
+[travis-url]: https://travis-ci.org/mugukamil/yo-mugu
+[daviddm-image]: https://david-dm.org/mugukamil/yo-mugu.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/mugukamil/yo-mugu
