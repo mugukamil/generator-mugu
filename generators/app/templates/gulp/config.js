@@ -26,7 +26,7 @@ var config = {
         iconsFont    : 'src/icons',
         fonts        : 'src/fonts',
         lib          : 'src/lib',
-        other        : 'src/other
+        other        : 'src/other'
     },
     dest: {
         root : destPath,
