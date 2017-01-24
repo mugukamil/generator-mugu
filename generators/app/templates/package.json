@@ -2,11 +2,11 @@
   "name": "<%= _.kebabCase(name) %>",
   "version": "0.1.0",
   "scripts": {
-    "ghpages": "git subtree push --prefix dist origin gh-pages",
+    "ghpages": "git subtree push --prefix build origin gh-pages",
     "build": "gulp build --production",
     "start": "gulp"
   },
-  "authors": "Coderiver <html@coderiver.com.ua>",
+  "authors": "mugkamil <mugukamil@gmail.com>",
   "devDependencies": {
     "autoprefixer": "^6.3.3",
     "browser-sync": "^2.10.0",

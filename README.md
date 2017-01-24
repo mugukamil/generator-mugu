@@ -13,7 +13,7 @@ npm install -g yo-mugu
 Then generate your new project:
 
 ```bash
-yo man
+yo yo-mugu
 ```
 
 ## Getting To Know Yeoman
